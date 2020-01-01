@@ -15,10 +15,8 @@ dependencies {
 
     implementation("com.google.guava:guava:28.0-jre")
 
-    testImplementation("org.junit.jupiter:junit-jupiter-api:5.5.1")
+    testImplementation("org.junit.jupiter:junit-jupiter:5.5.2")
     testImplementation("org.mockito:mockito-junit-jupiter:3.2.4")
-
-    testRuntimeOnly("org.junit.jupiter:junit-jupiter-engine:5.5.1")
 }
 
 configure<JavaPluginConvention> {
