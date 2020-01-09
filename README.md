@@ -11,3 +11,4 @@ date | branch | lang
 2020.01.06 | [1/6](https://github.com/darklibra/bowling-game-kata/tree/1/6) | kotlin
 2020.01.07 | [1/7](https://github.com/darklibra/bowling-game-kata/tree/1/7) | kotlin
 2020.01.08 | [1/8](https://github.com/darklibra/bowling-game-kata/tree/1/8) | kotlin
+2020.01.09 | [1/9](https://github.com/darklibra/bowling-game-kata/tree/1/9) | kotlin
