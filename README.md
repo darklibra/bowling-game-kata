@@ -3,12 +3,13 @@
 ## 1차
 date | branch | lang
 --- | --- | ---
-2020.01.01 | [1/1](https://github.com/darklibra/bowling-game-kata/tree/1/1) | java
-2020.01.02 | [1/2](https://github.com/darklibra/bowling-game-kata/tree/1/2) | java
-2020.01.03 | [1/3](https://github.com/darklibra/bowling-game-kata/tree/1/3) | java
-2020.01.04 | [1/4](https://github.com/darklibra/bowling-game-kata/tree/1/4) | java
-2020.01.05 | [1/5](https://github.com/darklibra/bowling-game-kata/tree/1/5) | java
-2020.01.06 | [1/6](https://github.com/darklibra/bowling-game-kata/tree/1/6) | kotlin
-2020.01.07 | [1/7](https://github.com/darklibra/bowling-game-kata/tree/1/7) | kotlin
-2020.01.08 | [1/8](https://github.com/darklibra/bowling-game-kata/tree/1/8) | kotlin
-2020.01.09 | [1/9](https://github.com/darklibra/bowling-game-kata/tree/1/9) | kotlin
+2020.01.01 | [1/01](https://github.com/darklibra/bowling-game-kata/tree/1/1) | java
+2020.01.02 | [1/02](https://github.com/darklibra/bowling-game-kata/tree/1/2) | java
+2020.01.03 | [1/03](https://github.com/darklibra/bowling-game-kata/tree/1/3) | java
+2020.01.04 | [1/04](https://github.com/darklibra/bowling-game-kata/tree/1/4) | java
+2020.01.05 | [1/05](https://github.com/darklibra/bowling-game-kata/tree/1/5) | java
+2020.01.06 | [1/06](https://github.com/darklibra/bowling-game-kata/tree/1/6) | kotlin
+2020.01.07 | [1/07](https://github.com/darklibra/bowling-game-kata/tree/1/7) | kotlin
+2020.01.08 | [1/08](https://github.com/darklibra/bowling-game-kata/tree/1/8) | kotlin
+2020.01.09 | [1/09](https://github.com/darklibra/bowling-game-kata/tree/1/9) | kotlin
+2020.01.10 | [1/10](https://github.com/darklibra/bowling-game-kata/tree/1/10) | kotlin
