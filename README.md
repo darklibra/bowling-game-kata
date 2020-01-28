@@ -30,3 +30,4 @@ date | branch | lang
 2020.01.25 | [1/25](https://github.com/darklibra/bowling-game-kata/tree/1/25) | kotlin
 2020.01.26 | [1/26](https://github.com/darklibra/bowling-game-kata/tree/1/26) | kotlin
 2020.01.27 | [1/27](https://github.com/darklibra/bowling-game-kata/tree/1/27) | kotlin
+2020.01.28 | [1/28](https://github.com/darklibra/bowling-game-kata/tree/1/28) | kotlin
