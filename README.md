@@ -1,6 +1,14 @@
 # Bowling Game Kata
 
-## 1차
+## 2차
+
+date | branch | lang
+--- | --- | ---
+
+---
+
+<details><summary>1 차</summary>
+
 date | branch | lang
 --- | --- | ---
 2020.01.01 | [1/01](https://github.com/darklibra/bowling-game-kata/tree/1/1) | java
@@ -41,3 +49,5 @@ date | branch | lang
 2020.02.05 | [1/36](https://github.com/darklibra/bowling-game-kata/tree/1/36) | kotlin
 2020.02.06 | [1/37](https://github.com/darklibra/bowling-game-kata/tree/1/37) | kotlin
 2020.02.07 | [1/38](https://github.com/darklibra/bowling-game-kata/tree/1/38) | kotlin
+
+</details>
