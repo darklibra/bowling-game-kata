@@ -13,10 +13,11 @@ repositories {
 dependencies {
     implementation(kotlin("stdlib-jdk8"))
 
-    implementation("com.google.guava:guava:28.0-jre")
+    implementation("com.google.guava:guava:31.1-jre")
 
-    testImplementation("org.junit.jupiter:junit-jupiter:5.5.2")
-    testImplementation("org.mockito:mockito-junit-jupiter:3.2.4")
+    testImplementation("org.junit.jupiter:junit-jupiter:5.9.1")
+    testImplementation("org.mockito:mockito-junit-jupiter:4.8.0")
+    testImplementation("org.junit.platform:junit-platform-launcher:1.9.1")
 }
 
 configure<JavaPluginConvention> {
