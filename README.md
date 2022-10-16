@@ -4,6 +4,7 @@
 
 date | branch | lang
 --- | --- | ---
+2022.10.16 | [2/1](https://github.com/darklibra/bowling-game-kata/tree/2/1)| java
 
 ---
 
