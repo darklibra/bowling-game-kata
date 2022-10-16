@@ -20,7 +20,7 @@ dependencies {
     testImplementation("org.junit.platform:junit-platform-launcher:1.9.1")
 }
 
-configure<JavaPluginConvention> {
+configure<JavaPluginExtension> {
     sourceCompatibility = JavaVersion.VERSION_11
 }
 
